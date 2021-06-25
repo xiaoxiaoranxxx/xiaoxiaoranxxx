@@ -5,14 +5,6 @@
 
 <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="50%" ><img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="50%" >
 
-
-
-<br>
-<br>
-<br>
-
-
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoxiaoranxxx&theme=tokyonight&show_icons=true" width="40%" height=""  /><img alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="60%"  />
 
 <br/>
