@@ -12,7 +12,7 @@
 
 <h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm xiaoxiaoran </h1>
 
-<p align="Center" >Computer Direction Network Security 🌱 Financial direction of securities and futures</p>
+<p align="Center" >Computer Direction Network Security 🌱 Financial Direction Securities Futures</p>
+
 
 <img src="https://img-blog.csdnimg.cn/20210518211707779.png#pic_center" width="100%" height="100%" >
-
