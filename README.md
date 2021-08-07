@@ -15,4 +15,4 @@
 <p align="Center" >Computer Direction Network Security 🌱 Financial Direction Securities Futures</p>
 
 
-<img src="https://img-blog.csdnimg.cn/20210518211707779.png#pic_center" width="100%" height="100%" >
+<img src="https://img-blog.csdnimg.cn/20210518211707779.png#pic_center " width="100%" height="100%" >
