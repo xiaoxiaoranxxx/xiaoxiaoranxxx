@@ -6,7 +6,7 @@
 <a href="https://github.com/xiaoxiaoranxxx"><img src="https://img.shields.io/github/followers/xiaoxiaoranxxx"></a>
 <img src="https://komarev.com/ghpvc/?username=xiaoxiaoranxxx" alt="raghav-byte" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoxiaoranxxx&theme=tokyonight&show_icons=true" width="40%" height="333px"  /><img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="60%" height="333px" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoxiaoranxxx&theme=tokyonight&show_icons=true" width="40%"/><img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="60%"  >
 
 <h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm xiaoxiaoran </h1>
 
