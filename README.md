@@ -15,4 +15,4 @@
 
 <img src="https://xiuxiu-1306082599.cos.ap-beijing.myqcloud.com/xiao/logo.png" width="100%" height="100%" >
 
-<img src="https://xiuxiu-1306082599.cos.ap-beijing.myqcloud.com/xiao/202109291110925.gif" width="50%" /><img src="https://xiuxiu-1306082599.cos.ap-beijing.myqcloud.com/xiao/202109291110925.gif" width="50%"/>
+<img src="https://xiuxiu-1306082599.cos.ap-beijing.myqcloud.com/xiao/202109291110925.gif" width="33.3%" /><img src="https://xiuxiu-1306082599.cos.ap-beijing.myqcloud.com/xiao/202109291110925.gif" width="33.3%"/><img src="https://xiuxiu-1306082599.cos.ap-beijing.myqcloud.com/xiao/202109291110925.gif" width="33.3%" />
